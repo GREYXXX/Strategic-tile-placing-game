@@ -1,13 +1,6 @@
 # CITS3002 2021 Assignment
 #
-# This file implements the game client. You do not need to understand this code,
-# but you may like to inspect it to understand how the client expects to
-# interact with the server.
-#
-# If you are going to modify this code (e.g. to add additional information to
-# help you debug your servers), you should make a copy of the original code
-# first, and ensure that your final server works with the original code
-# before submission.
+# This file implements the game client. 
 
 from tkinter import *
 from tkinter.ttk import *
