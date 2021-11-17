@@ -1,6 +1,5 @@
 # CITS3002 2021 Assignment
 # Author: XI RAO
-# Student Number: 22435044
 # This file implements a basic server that allows a single client to play a
 # single game with no other participants, and very little error checking.
 #
